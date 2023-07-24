@@ -1,4 +1,4 @@
-# NDK Samples [![build](https://github.com/android/ndk-samples/workflows/build/badge.svg)](https://github.com/android/ndk-samples/actions)
+# NDK Samples [![build](https://github.com/android/ndk-samples/workflows/build/badge.svg)](https://github.com/android/ndk-samples/actions) DEVELOPER SATTOROV KAMRONBEK
 
 This repository contains [Android NDK][0] samples with Android Studio
 [C++ integration](https://www.youtube.com/watch?v=f7ihSQ44WO0&feature=youtu.be).
